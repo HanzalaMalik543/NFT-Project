@@ -20,8 +20,8 @@ This smart contract is designed for a collection of 10,000 unique digital assets
 * **Network**: [Add intended network here, e.g., Ethereum Mainnet / Sepolia Testnet]
 
 ## 📜 Contract Details
-* **Collection Name**: Hanzala
-* **Symbol**: han
+* **Collection Name**: HANZALA
+* **Symbol**: hnzla
 * **Max Supply**: 10,000
 * **Mint Price**: 0.000008 ETH (8,000,000,000,000 Wei)
 
